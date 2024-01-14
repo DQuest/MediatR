@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMediatR", "WebAppMediatR\WebAppMediatR.csproj", "{01866168-93AF-4D56-99E1-749BD8B2A6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01866168-93AF-4D56-99E1-749BD8B2A6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01866168-93AF-4D56-99E1-749BD8B2A6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01866168-93AF-4D56-99E1-749BD8B2A6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01866168-93AF-4D56-99E1-749BD8B2A6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
